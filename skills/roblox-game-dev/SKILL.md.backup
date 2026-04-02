@@ -265,8 +265,6 @@ def generate_optimization_suggestions(funnel_data):
 
 ### 8. 成功案例库
 
-
-
 ### 案例1：《Sailor Piece》关键成功因素分析
 ```yaml
 game: "Sailor Piece"
@@ -400,11 +398,6 @@ done
 - [ ] 开发自动化分析工具
 - [ ] 创建模板项目
 - [ ] 集成A/B测试框架
-
-### 📊 未知游戏
-**类型**: 未知类型
-**分析文件**: get-fat-to-splash-analysis.md
-**更新时间**: 2026-04-02 11:33:08
 
 ## 9. 自动化分析工具
 
